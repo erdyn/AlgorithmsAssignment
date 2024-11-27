@@ -14,5 +14,5 @@ Additionally, a function is coded to copy all the sorted data into a single link
 Planning involved flowcharts and pseudocode before actually writing the code. This made the implementation process more efficient. <br>
 <details>
 <summary> - Task 2's flowchart: </summary>
-<img align="left" alt="C" width="700px" style="padding-right:10px;" src="https://raw.githubusercontent.com/erdyn/college-work/refs/heads/main/AlgorithmsAssignment/resources/flowchart.png" />
+<img align="left" alt="flowchart" width="700px" style="padding-right:10px;" src="https://raw.githubusercontent.com/erdyn/AlgorithmsAssignment/refs/heads/main/resources/flowchart.png" />
 </details>
